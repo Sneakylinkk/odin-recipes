@@ -1,0 +1,24 @@
+.big-body{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.recipes{
+margin: 6px 0;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+.recp-img{
+    width: 140px;
+    height: 140px;
+    display: block;
+}
